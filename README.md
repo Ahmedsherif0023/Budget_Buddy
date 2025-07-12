@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
@@ -85,3 +86,7 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+=======
+# Budget_Buddy
+This app is for saving money by watching the expenses
+>>>>>>> 43b014308780903e65bb61b7a7ccf8c3e9560e85
