@@ -1,5 +1,6 @@
 "use client";
 import type { Route } from "./+types/expenses";
+import "./expenses.css";
 
 export function meta({}: Route.MetaArgs) {
   return [
